@@ -57,3 +57,9 @@ Completion date auto-update on status change
 Yash Pimpalkar
 🔗 https://www.linkedin.com/in/yashpimpalkar/
 📧 yashpimpalkar214@gmail.com
+
+
+screenshots ![image](https://github.com/user-attachments/assets/6b72b23b-fb22-4733-ba38-4794332c8066),![image](https://github.com/user-attachments/assets/e3c89bf9-a835-451a-b04a-8baff6e8e969)
+![image](https://github.com/user-attachments/assets/19f2b650-95da-4c8f-aa75-36564e4c2742)
+
+
