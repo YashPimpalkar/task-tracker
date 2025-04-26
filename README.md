@@ -1,6 +1,5 @@
 # Task Tracker
-
-A full-stack task management application with support for multiple users, projects, and tasks. Built using **Node.js** (Express) for the backend and **React.js** (Vite) for the frontend.
+A full-stack task management application that supports multiple users, projects, and tasks with full CRUD capabilities. Built using **Node.js** (Express) for the backend and **React.js** (Vite) for the frontend. The backend uses **PostgreSQL**, hosted on **Neon**.
 
 ## 🌐 Live Demo
 
@@ -9,8 +8,8 @@ A full-stack task management application with support for multiple users, projec
 ## 📁 Project Structure
 
 task-tracker/
-              ├── server/ # Express backend  
-              ├── tasktracker/ # React frontend
+├── server/ # Express backend  
+├── tasktracker/ # React frontend
 
 ## 🚀 Getting Started
 
