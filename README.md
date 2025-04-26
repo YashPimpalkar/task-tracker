@@ -8,8 +8,8 @@ A full-stack task management application with support for multiple users, projec
 
 ## 📁 Project Structure
 
-task-tracker/ ├── server/ # Express backend  
-
+task-tracker/
+              ├── server/ # Express backend  
               ├── tasktracker/ # React frontend
 
 ## 🚀 Getting Started
